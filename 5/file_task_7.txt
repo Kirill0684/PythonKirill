@@ -1,0 +1,5 @@
+company_1 OOO 100 50
+company_2 OOO 300 400
+company_3 OOO 200 500
+company_4 OOO 800 700
+company_5 OOO 400 300
