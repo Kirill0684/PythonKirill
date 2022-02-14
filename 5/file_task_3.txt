@@ -1,0 +1,10 @@
+employee_1 10000
+employee_2 90000
+employee_3 20000
+employee_4 80000
+employee_5 30000
+employee_6 70000
+employee_7 40000
+employee_8 60000
+employee_9 50000
+employee_10 15000
